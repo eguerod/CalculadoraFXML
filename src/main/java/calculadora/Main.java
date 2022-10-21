@@ -1,4 +1,4 @@
-package calcuadora;
+package calculadora;
 
 public class Main {
 

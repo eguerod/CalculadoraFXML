@@ -12,3 +12,4 @@ target/classes/fxml/View.fxml
 target/classes/META-INF/MANIFEST.MF
 target/classes/META-INF/maven/dad/CalculadoraFXML/pom.properties
 target/classes/META-INF/maven/dad/CalculadoraFXML/pom.xml
+*.class

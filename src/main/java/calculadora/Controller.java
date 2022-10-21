@@ -1,4 +1,4 @@
-package calcuadora;
+package calculadora;
 
 import java.io.IOException;
 import java.net.URL;

@@ -1,4 +1,4 @@
-package calcuadora;
+package calculadora;
 
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;

@@ -1,4 +1,4 @@
-package calcuadora;
+package calculadora;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
