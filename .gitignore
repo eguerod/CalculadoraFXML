@@ -1,0 +1,14 @@
+
+.classpath
+.gitattributes
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/calcuadora/App.class
+target/classes/calcuadora/Calculadora.class
+target/classes/calcuadora/Controller.class
+target/classes/calcuadora/Main.class
+target/classes/fxml/View.fxml
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/dad/CalculadoraFXML/pom.properties
+target/classes/META-INF/maven/dad/CalculadoraFXML/pom.xml
