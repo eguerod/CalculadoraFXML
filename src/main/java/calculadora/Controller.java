@@ -128,7 +128,7 @@ public class Controller implements Initializable {
 		calculadora.operar(Calculadora.IGUAL);
 	}
 
-	public GridPane getView() {
+	public GridPane getView() { 
 		return view;
 	}
 
